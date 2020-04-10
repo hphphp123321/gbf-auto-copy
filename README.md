@@ -10,6 +10,7 @@ python 3.7 <br>
 如何下载chromedriver: [chromedriver下载](https://chromedriver.chromium.org/)
 
 ## 如何运行: 
+将chromedriver放在与py文件同一的文件夹下<br>
 运行py文件 <br>
 点击获取boss列表，等获取成功后会在文件夹下生成一个boss顺序.txt文件。再点击下拉框选择boss，点击开始复制等待复制完成，点击停止即可停止复制。点击下拉框可再次选择boss   
 
